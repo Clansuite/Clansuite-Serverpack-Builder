@@ -11,6 +11,17 @@
   ------------
 
     These directories contain everything you need to build the Clansuite Webserver Pack for Windows and Linux.
+    Basically it's a build script which fetches "XAMPPlight" and adds "Clansuite" as 3th party PHP app on top.
+    The 3th party applications is preinstalled and configured ready to run right out of the box with one click.
+
+    Important Note: 
+
+    *This project is superceded by WPN-XM*
+
+    WPN-XM is a free and open-source web server solution stack for professional PHP development on the Windows platform. â€” Read more
+
+    Website: http://wpn-xm.org
+    Github:  https://github.com/jakoch/WPN-XM
 
 
   Structure
@@ -155,7 +166,5 @@
 
       Best Regards,
 
-        Jens-André Koch
+        Jens-Andre Koch
         Clansuite Maintainer
-
-  Version: $Id$
